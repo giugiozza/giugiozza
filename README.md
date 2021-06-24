@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! 👋
 
 <!--
 **giugiozza/giugiozza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+`profile under construction...` 🚧👷‍♀️
+</br>
+</br>
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/giuliagiozza/en-us)
+&nbsp;
+
+              
