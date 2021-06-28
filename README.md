@@ -1,25 +1,13 @@
-## Hi there! 👋
+### Hi there! 👋
 
-<!--
-**giugiozza/giugiozza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-`profile under construction...` 🚧👷‍♀️
+My name is Giulia but you can call me _Giu_ 😊
+</br>
+I am studying for a B. S. in Computer Science at the Federal University of Rio Grande do Sul and expect to graduate in 2022.
+</br>
+You can find more about my work experience here: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/giuliagiozza/en-us)
 </br>
 </br>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/giuliagiozza/en-us)
-&nbsp;
-
-              
+I’m currently learning Docker and working on some side projects to improve my skills in Python 💚 and automating stuff.
+</br>
+</br>
+Feel free to get in touch with me!
