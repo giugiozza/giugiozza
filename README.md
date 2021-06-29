@@ -11,3 +11,13 @@ I’m currently learning Docker and working on some side projects to improve my 
 </br>
 </br>
 Feel free to get in touch with me!
+
+<!-- MOST USED LANGUAGES
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giugiozza&theme=dracula&hide_langs_below=1" />
+</a>
+-->
+
+<!--- PROFILE VIEWS
+![](https://komarev.com/ghpvc/?username=giugiozza&color=006bed)
+-->
